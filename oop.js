@@ -17,3 +17,5 @@ class BMW extends Car{
 
 let BMW_X5 = new BMW(100,400)
 alert(BMW_X5.speedTo100())
+
+//From a parameter or where it calls from, can return different values
